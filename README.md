@@ -1,2 +1,2 @@
-# Apex_sql_training
+# APEX_SQL_Training
 sql_training
